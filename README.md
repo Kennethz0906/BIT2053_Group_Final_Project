@@ -41,7 +41,8 @@ The dashboard is designed for interactivity and insight discovery:
 *   **Trend Analysis:** The line charts at the top show monthly Sales and Profit. Hover over data points to see exact values.
 *   **Product Drill-Down:** The bar chart shows profit by category. Click on a category (e.g., "Technology") to filter the treemap below to show its sub-categories.
 *   **Geographic Insight:** The map highlights states based on profit. Darker shades indicate higher profit.
-*   **Access the Dashboard:** [Click here to view the interactive Power BI dashboard online]([Insert Your Published Power BI Link Here])
+*   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/your_dashboard_link)
+
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png) <!-- You need to upload a screenshot to a folder called 'images' in your repo and link it here -->
 
