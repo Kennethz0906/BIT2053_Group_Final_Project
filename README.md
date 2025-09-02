@@ -29,7 +29,7 @@ Our analysis followed a structured data analytics lifecycle:
     *   Slicers for interactive filtering by year and region.
 4.  **Interpretation:** We derived insights from the visualizations to answer the business questions and form recommendations.
 
-## Result
+## Results
 Our analysis successfully uncovered significant patterns in the data:
 *   **Sales Trends:** A consistent and significant peak in sales and profit occurs in Q4 (November and December) due to the holiday season.
 *   **Product Performance:** The Technology category is the most profitable, while Furniture has high sales volume but lower margins. High discounts (>20%) were found to negatively impact profit.
