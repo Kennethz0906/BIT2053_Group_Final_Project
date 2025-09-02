@@ -41,7 +41,7 @@ The dashboard is designed for interactivity and insight discovery:
 *   **Trend Analysis:** The line charts at the top show monthly Sales and Profit. Hover over data points to see exact values.
 *   **Product Drill-Down:** The bar chart shows profit by category. Click on a category (e.g., "Technology") to filter the treemap below to show its sub-categories.
 *   **Geographic Insight:** The map highlights states based on profit. Darker shades indicate higher profit.
-*   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/[your_dashboard_link](https://lookerstudio.google.com/s/meD3a8EJiWk))
+*   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/u/0/reporting/f1f41b6f-3d24-4dbd-9d53-41e82dd6c1b3/page/p_4xx8myxvvd?s=iCFpXGjr68Y)
 
 
 
