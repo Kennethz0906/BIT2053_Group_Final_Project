@@ -45,7 +45,7 @@ Our analysis successfully uncovered significant patterns in the data:
 The dashboard is designed for interactivity and insight discovery:
 *   **Trend Analysis:** The line charts show monthly Sales and Profit. Hover over data points to see exact values.
 *   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/u/0/reporting/f1f41b6f-3d24-4dbd-9d53-41e82dd6c1b3/page/p_4xx8myxvvd?s=iCFpXGjr68Y)
-*   ## BI Dashboard
+  ##   BI Dashboard
 
 Here’s a static preview of the dashboard:
 
