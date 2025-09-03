@@ -8,7 +8,7 @@ This project our project plan for the BIT2053 Final Group Project. We will deepl
 ## Problem Statement
 In the competitive retail landscape, businesses often struggle to make sense of large volumes of transactional data. This project addresses three core business problems:
 1.  **Identifying Sales Trends:** Understanding sales and quantity sold fluctuate over time (monthly/quarterly)
-2.  **Evaluating Product Portfolio:** Determining Which product categories (Electronics, Clothing, Beauty) generate the highest revenue, and what are the best-selling products
+2.  **Evaluating Product Portfolio:** Determining which product categories (Electronics, Clothing, Beauty) generate the highest revenue, and what are the best-selling products
 3.  **Analyzing Customer and Geographic Distribution:** pinpointing the most valuable customer segments and regions to allocate marketing resources efficiently.
 
 ## Dataset Source
@@ -25,7 +25,7 @@ Our analysis followed a structured data analytics lifecycle:
 3.  **Data Analysis & Visualization:** The cleaned data was imported into Power BI. We built an interactive dashboard with key visualizations:
     *   Time-series line charts for sales and profit trends.
     *   Bar and treemap charts for product category analysis.
-    *   Piechart 
+    *   Pie chart for revenue by gender analysis.
 4.  **Interpretation:** We derived insights from the visualizations to answer the business questions and form recommendations.
 
 ## Results
@@ -43,10 +43,7 @@ Our analysis successfully uncovered significant patterns in the data:
 
 ## The Functioning of BI Dashboard
 The dashboard is designed for interactivity and insight discovery:
-*   **Filters:** Use the **Year** and **Region** slicers at the top to filter the entire dashboard dynamically.
 *   **Trend Analysis:** The line charts at the top show monthly Sales and Profit. Hover over data points to see exact values.
-*   **Product Drill-Down:** The bar chart shows profit by category. Click on a category (e.g., "Technology") to filter the treemap below to show its sub-categories.
-*   **Geographic Insight:** The map highlights states based on profit. Darker shades indicate higher profit.
 *   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/u/0/reporting/f1f41b6f-3d24-4dbd-9d53-41e82dd6c1b3/page/p_4xx8myxvvd?s=iCFpXGjr68Y)
 
 
