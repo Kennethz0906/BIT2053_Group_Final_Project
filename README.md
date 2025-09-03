@@ -3,12 +3,12 @@ Final Project BIT2053 Fundamental of Modern Data
 # Retail Sales Performance Dashboard
 
 ## Executive Summary
-This project analyzes a retail sales dataset to uncover key business insights regarding sales trends, product performance, and customer segmentation. Using Python for data preparation and Power BI for visualization, we developed an interactive dashboard to aid in strategic decision-making. Our analysis revealed critical findings such as strong Q4 seasonality, the high profitability of the Technology product category, and the dominance of the West region in sales. Based on these insights, we provide actionable recommendations to increase overall profitability by 15%.
+This project our project plan for the BIT2053 Final Group Project. We will deeply analyze a real retail sales dataset to simulate a data-driven decision-making process. The project includes sourcing, cleaning, and preprocessing of the data using Python, and then designing an interactive Business Intelligence (BI) dashboard using Power BI. The final objective is to conclude solid insights on sales trends, product performance, and client profiles to provide actionable business recommendations. The project will demonstrate our understanding of the end-to-end data analysis life cycle and our ability to apply computational thinking to solve business problems.
 
 ## Problem Statement
 In the competitive retail landscape, businesses often struggle to make sense of large volumes of transactional data. This project addresses three core business problems:
-1.  **Identifying Sales Trends:** Understanding seasonal patterns to improve inventory planning and marketing campaigns.
-2.  **Evaluating Product Portfolio:** Determining which product categories and sub-categories are most profitable to optimize assortment and pricing strategies.
+1.  **Identifying Sales Trends:** Understanding sales and quantity sold fluctuate over time (monthly/quarterly)
+2.  **Evaluating Product Portfolio:** Determining Which product categories (Electronics, Clothing, Beauty) generate the highest revenue, and what are the best-selling products
 3.  **Analyzing Customer and Geographic Distribution:** pinpointing the most valuable customer segments and regions to allocate marketing resources efficiently.
 
 ## Dataset Source
@@ -25,15 +25,21 @@ Our analysis followed a structured data analytics lifecycle:
 3.  **Data Analysis & Visualization:** The cleaned data was imported into Power BI. We built an interactive dashboard with key visualizations:
     *   Time-series line charts for sales and profit trends.
     *   Bar and treemap charts for product category analysis.
-    *   A map visualization for geographic analysis.
-    *   Slicers for interactive filtering by year and region.
+    *   Piechart 
 4.  **Interpretation:** We derived insights from the visualizations to answer the business questions and form recommendations.
 
 ## Results
 Our analysis successfully uncovered significant patterns in the data:
-*   **Sales Trends:** A consistent and significant peak in sales and profit occurs in Q4 (November and December) due to the holiday season.
-*   **Product Performance:** The Technology category is the most profitable, while Furniture has high sales volume but lower margins. High discounts (>20%) were found to negatively impact profit.
-*   **Customer/Geography:** The West region is the most profitable. The Consumer segment generates the most sales, while the Corporate segment has a high average order value.
+*   **Sales Trends:**
+*   Peak Seasons: Sales peaked in May and September 2023, indicating strong seasonal demand.
+*   High Value: The average transaction value was $456, suggesting successful premium pricing or upselling strategies.
+*   **Product Performance:**
+*   Revenue Leader: Electronics generated the highest revenue, indicating strong profitability.
+*   Volume Leader: Clothing sold the most units, operating on a high-volume model.
+*   Growth Opportunity: Beauty was the lowest-performing category in both sales and revenue, highlighting a  key area for improvement.
+*   **Customer/Geography:**
+*   Balanced Demographics: Spending was nearly equal between Female (51.1%) and Male (48.9%) customers.
+*   High-Value Segment: Customers around age 37 (within the 34-43 cohort) were the highest-spending demographic.
 
 ## The Functioning of BI Dashboard
 The dashboard is designed for interactivity and insight discovery:
