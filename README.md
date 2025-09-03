@@ -43,13 +43,12 @@ Our analysis successfully uncovered significant patterns in the data:
 
 ## The Functioning of BI Dashboard
 The dashboard is designed for interactivity and insight discovery:
-*   **Trend Analysis:** The line charts at the top show monthly Sales and Profit. Hover over data points to see exact values.
+*   **Trend Analysis:** The line charts show monthly Sales and Profit. Hover over data points to see exact values.
 *   **Access the Dashboard:** [Click here to view the interactive dashboard](https://lookerstudio.google.com/u/0/reporting/f1f41b6f-3d24-4dbd-9d53-41e82dd6c1b3/page/p_4xx8myxvvd?s=iCFpXGjr68Y)
 
 
 
 
-![Dashboard Screenshot](images/dashboard_screenshot.png) <!-- You need to upload a screenshot to a folder called 'images' in your repo and link it here -->
 
 ## Acknowledgement
 We would like to extend our gratitude to:
