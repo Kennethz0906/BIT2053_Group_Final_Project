@@ -7,8 +7,8 @@ This project our project plan for the BIT2053 Final Group Project. We will deepl
 
 ## Problem Statement
 In the competitive retail landscape, businesses often struggle to make sense of large volumes of transactional data. This project addresses three core business problems:
-1.  **Identifying Sales Trends:** Understanding sales and quantity sold fluctuate over time (monthly/quarterly)
-2.  **Evaluating Product Portfolio:** Determining which product categories (Electronics, Clothing, Beauty) generate the highest revenue, and what are the best-selling products
+1.  **Identifying Sales Trends:** Understanding sales and quantity sold fluctuate over time
+2.  **Evaluating Product Portfolio:** Determining which product categories generate the highest revenue, and what are the best-selling products
 3.  **Analyzing Customer and Geographic Distribution:** pinpointing the most valuable customer segments and regions to allocate marketing resources efficiently.
 
 ## Dataset Source
